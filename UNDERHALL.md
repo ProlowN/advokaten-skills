@@ -27,3 +27,31 @@ Enligt Skatteverkets sidor i oktober 2026. Kontrollera igen innan årsfilen skri
 - Förmånsbil som är laddhybrid: från 1 juli 2026 kan avdrag för tjänsteresor medges även om arbetsgivaren tillhandahåller laddning vid arbetsplatsen.
 
 Källor: Skatteverkets sidor om resor till och från arbetet, traktamente, avdragslexikon (A, D, P, R, T), kostnadsersättning och sälja tjänster.
+
+## bouppteckning – minst två gånger om året
+
+Det som ändras oftast står i `skills/bouppteckning/references/aktuellt-2026.md`.
+
+1. Läs Skatteverkets sida Bouppteckning och blankettsidan för SKV 4600. Har e-tjänsten för digital inlämning lanserats (enligt Skatteverket tidigast 2027)? Lägg då till den i arbetsgången.
+2. Har blanketten SKV 4600, Tilläggsbouppteckning (SKV 4578) eller broschyren SKV 461 fått en ny utgåva? Uppdatera `references/blankett-skv-4600.md` efter rubrikerna i den nya utgåvan och ta bort undantagen för de gamla begreppen.
+3. Kontrollera adressen, kötiden och listan över vanliga missar.
+4. Kontrollera 20 kap. ärvdabalken på riksdagen.se mot lagrummen i skillen. Döp om filen när den gås igenom, till exempel till `aktuellt-2027.md`, och uppdatera hänvisningarna.
+
+## reklamation – varje år
+
+Belopp och avgifter står i `skills/reklamation/references/belopp-ÅÅÅÅ.md`.
+
+1. Prisbasbeloppet för nästa år beslutas på hösten. Skapa en ny årsfil med prisbasbeloppet, gränsen för förenklat tvistemål (hälften av prisbasbeloppet), domstolsavgifterna och Kronofogdens avgift. Behåll förra årets fil.
+2. Kontrollera ARN:s avgift och värdegränser i förordningen (2015:739) och på arn.se.
+3. Konsumentkreditlagen (2026:1011) gäller från 20 november 2026. Efter det: uppdatera avsnittet om kreditgivarens ansvar i `references/andra-vagar.md`.
+4. Kontrollera Konsumentverkets och ARN:s sidor som skillen hänvisar till. Sidor flyttar ibland.
+
+## andrahandsuthyrning – varje år och när praxis kommer
+
+Belopp och datum står i `skills/andrahandsuthyrning/references/belopp-2026.md`.
+
+1. Prisbasbeloppet för nästa år: räkna om taket för avgiften för andrahandsupplåtelse (10 % av prisbasbeloppet). Skapa en ny årsfil och uppdatera hänvisningarna.
+2. Kontrollera Skatteverkets sida Hyra ut privatbostad: schablonavdraget, avdragen per typ av bostad och momsgränsen.
+3. Läs domstol.se:s sidor om privatuthyrning och bostadsrätt. I oktober 2026 beskrev flera av dem fortfarande lagen (2012:978). När de är uppdaterade: hänvisa till dem i stället för till propositionen där det går, och ta bort varningarna.
+4. Följ hyresnämndernas och Svea hovrätts beslut om vad som är en väsentligt högre hyra enligt privatuthyrningslagen och om tidigare andrahandsupplåtelser i bostadsrätt. Lägg till vägledningen i `references/hyra.md` och `references/bostadsratt.md`.
+5. Införs regler om deposition: uppdatera `references/kontrakt.md` och `references/andrahandshyresgast.md`.
