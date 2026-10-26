@@ -17,13 +17,15 @@ Sidorna som skillen bygger på kontrollerades 26 oktober 2026. Stämmer en sida 
 
 1. Gissa aldrig ett belopp, en kurs eller ett omkostnadsbelopp. Varje siffra ska komma från ett underlag som användaren har bekräftat, eller från `references/inkomstar-ÅÅÅÅ.md`.
 2. Skriv aldrig under, skicka aldrig in och godkänn aldrig deklarationen. Be aldrig om lösenord, koder eller BankID. Användaren loggar in och skriver under själv.
-3. Använd genomsnittsmetoden. Schablonmetoden, 20 procent av försäljningspriset, får inte användas för kryptovaluta. Inte heller schablonen på 25 procent eller fribeloppet på 50 000 kronor för personliga tillgångar. Bitcoin och liknande kryptovalutor är kapitalplaceringstillgångar.
-4. Räkna ett genomsnitt per kryptovaluta över alla plånböcker och alla växlare. Blanda inte olika kryptovalutor.
-5. Vinster och förluster redovisas var för sig. Gör inte kvittning på K4, och räkna inte själv om förlusten till 70 procent. Skatteverket gör kvoteringen.
-6. Belopp på blanketten anges i hela kronor. Räkna i ören i underlaget och visa avrundningen.
-7. Saknas underlag för ett innehav som fanns före årets första affär: räkna inte på den kryptovalutan. Säg vad som saknas.
-8. Är något oklart i filerna, till exempel airdrop, hard fork eller staking som inte är ether i en egen nod: säg att Skatteverkets sidor inte ger ett generellt svar. Räkna inte som om omkostnadsbeloppet vore noll. Hänvisa till Skatteverket (0771-567 567, skatteverket.se).
-9. Påminn om att en oriktig uppgift kan ge skattetillägg och att underlagen ska sparas.
+3. Be bara om de personuppgifter som behövs och upprepa dem inte i onödan. Uppgifter om andra personer, till exempel en utbetalares personnummer, kan användaren skriva in själv i e-tjänsten eller på blanketten.
+4. Be aldrig om och ta aldrig emot en seed phrase, en privat nyckel eller en okrypterad plånboksfil. Dyker något sådant upp: stanna, upprepa det inte och be om en rensad export. Upprepa en plånboksadress bara när det behövs för att skilja plånböcker åt, och förkorta den då. Se `references/underlag.md`.
+5. Använd genomsnittsmetoden. Schablonmetoden, 20 procent av försäljningspriset, får inte användas för kryptovaluta. Inte heller schablonen på 25 procent eller fribeloppet på 50 000 kronor för personliga tillgångar. Bitcoin och liknande kryptovalutor är kapitalplaceringstillgångar.
+6. Räkna ett genomsnitt per kryptovaluta över alla plånböcker och alla växlare. Blanda inte olika kryptovalutor.
+7. Vinster och förluster redovisas var för sig. Gör inte kvittning på K4, och räkna inte själv om förlusten till 70 procent. Skatteverket gör kvoteringen.
+8. Belopp på blanketten anges i hela kronor. Räkna i ören i underlaget och visa avrundningen.
+9. Saknas underlag för ett innehav som fanns före årets första affär: räkna inte på den delen. Säg vad som saknas.
+10. Airdrop och hard fork: pausa bara det oklara mottagandet. Fortsätt räkna dokumenterade köp och försäljningar av samma kryptovaluta. Sätt aldrig omkostnadsbeloppet till noll. Annat som filerna lämnar öppet, till exempel staking som inte är ether i en egen nod: säg att Skatteverkets sidor inte ger ett generellt svar och hänvisa till Skatteverket (0771-567 567, skatteverket.se).
+11. Påminn om att en oriktig uppgift kan ge skattetillägg och att underlagen ska sparas.
 
 ## Omfattning
 
@@ -50,8 +52,8 @@ Utanför skillen. Säg det och hänvisa vidare. Ge inte råd om det.
 ## Tillsammans med inkomstdeklaration
 
 - Användaren bara ska deklarera krypto, eller bara frågar om kryptoskatt: använd den här skillen. Läs inte inkomstdeklarationens områden som är under arbete.
-- Hela deklarationen gås igenom med skillen inkomstdeklaration: den skillen äger arbetsgången. Använd den här skillen som fördjupning för kryptoraderna på K4 avsnitt D, för löpande kapitalinkomst av krypto vid punkt 7.2 och för fiatvaluta som bytts mot krypto på K4 avsnitt C. Lämna tillbaka en tabell med belopp, punkt och underlag. Fyll inte i andra punkter här.
-- Mining som hobby, eller lön i kryptovaluta: kapitaldelen räknas här. Inkomsten i tjänst räknas i inkomstdeklaration (`references/tjanst.md`, punkt 1.1 eller bilaga T2). Omkostnadsbeloppet i kapital är det marknadsvärde som tas upp där.
+- Hela deklarationen gås igenom med skillen inkomstdeklaration: den skillen äger arbetsgången. Använd den här skillen som fördjupning för kryptoraderna på K4 avsnitt D, för löpande kapitalinkomst av krypto vid punkt 7.2 och för fiatvaluta som avyttras enligt `references/belopp-och-skattesatser.md` på K4 avsnitt C. Lämna tillbaka en tabell med belopp, punkt och underlag. Fyll inte i andra punkter här.
+- Mining som hobby, eller lön i kryptovaluta: kapitaldelen räknas här. Inkomsten i tjänst räknas i skillen inkomstdeklaration, references/tjanst.md, punkt 1.1 eller bilaga T2. Omkostnadsbeloppet i kapital är det marknadsvärde som tas upp där.
 
 ## Arbetsgång
 
@@ -59,11 +61,14 @@ Utanför skillen. Säg det och hänvisa vidare. Ge inte råd om det.
 
 1. Bekräfta inkomstår (normalt förra kalenderåret), att användaren är privatperson och har bott i Sverige hela året. Läs `references/inkomstar-ÅÅÅÅ.md`. Finns ingen årsfil: säg att skillen inte är uppdaterad och hämta datum och belopp på skatteverket.se innan du räknar.
 2. Har sista dagen passerat, eller är deklarationen redan inlämnad: följ avsnittet Sen eller ändrad deklaration i skillen inkomstdeklaration om den finns. Annars hänvisa till Skatteverkets sidor om sen deklaration och omprövning. Du skickar ändå inte in något.
-3. Fråga hur användaren vill arbeta: en lista att fylla i själv, eller att du fyller i bekräftade belopp i e-tjänsten. I båda fallen skriver användaren under själv.
+3. Fråga hur användaren vill arbeta:
+   - **Webbläsare:** du fyller i bekräftade belopp i e-tjänsten. Det kräver att du kan styra användarens webbläsare. Kan du inte det: ge en lista i stället.
+   - **Manuellt:** du ger en lista som användaren fyller i själv.
+   I båda fallen stannar du före Skriv under. Användaren skriver under själv.
 
 ### Steg 2 – Samla transaktioner
 
-Be om export från varje växlare och plånbok som använts, även sådant som inte rör årets försäljningar. Genomsnittet bygger på hela historiken. Läs `references/underlag.md`.
+Be om en rensad export från varje växlare och plånbok som använts, även sådant som inte rör årets försäljningar. Genomsnittet bygger på hela historiken. Läs `references/underlag.md`. Ta inte emot seed phrase, privat nyckel eller okrypterad plånboksfil.
 
 Behövs för varje affär: tidpunkt, kryptovaluta, antal, vad som betalades eller togs emot, avgift, och i vilken valuta. Saknas ingående innehav och dess omkostnadsbelopp: stanna för den kryptovalutan.
 
@@ -71,7 +76,7 @@ Behövs för varje affär: tidpunkt, kryptovaluta, antal, vad som betalades elle
 
 Läs `references/handelser.md`. Gå igenom händelserna med användaren. En flytt mellan egna plånböcker är ingen avyttring. En växling mellan två kryptovalutor är både en försäljning och ett köp.
 
-Särskilj det som ska till K4 avsnitt D, det som är löpande kapitalinkomst (punkt 7.2), det som är tjänst (mining, lön) och det som ska vänta eftersom Skatteverket inte har gett ett generellt svar.
+Särskilj det som ska till K4 avsnitt D, det som är löpande kapitalinkomst (punkt 7.2), det som är tjänst (mining, lön) och det mottagande som ska pausas eftersom Skatteverket inte har gett ett generellt svar. En pausad airdrop eller hard fork stoppar inte dokumenterade köp och försäljningar av samma kryptovaluta.
 
 ### Steg 4 – Räkna genomsnitt
 
@@ -90,16 +95,16 @@ Visa tabellen innan något fylls i:
 | Kryptovaluta | Antal | Försäljningspris | Omkostnadsbelopp | Vinst | Förlust | Punkt | Underlag |
 |---|---|---|---|---|---|---|---|
 
-Ta med punkt 7.2 (ränta, staking av ether, annan löpande avkastning) och K4 avsnitt C (fiatvaluta) på egna rader. Låt användaren bekräfta varje rad. Säg vilka händelser som lämnats utanför och varför.
+Ta med punkt 7.2 (ränta, staking av ether, annan löpande avkastning) och K4 avsnitt C på egna rader. Avsnitt C är avyttring av fiatvaluta: betalning vid köp av krypto, eller senare avyttring av mottagen fiat när 30-dagarsregeln inte gäller. Låt användaren bekräfta varje rad. Säg vilka mottaganden som pausats och varför.
 
 ### Steg 7 – Fyll i, granska, användaren skriver under
 
 Fyll bara i belopp som användaren har bekräftat.
 
-- **Lista:** ge beteckning, antal, försäljningspris, omkostnadsbelopp, vinst och förlust, och säg vart summan ska. Påminn om förifyllda belopp vid punkt 7.5 och 8.4.
-- **E-tjänst:** användaren loggar in själv. Bilagan heter K4 – Övriga värdepapper, andra tillgångar (kapitalplaceringar t.ex. råvaror, kryptovalutor) m.m. Kontrollera efter varje rad att vinsten eller förlusten stämmer. Ändra inte kontaktuppgifter eller bankkonto.
+- **Webbläsare:** bara om du kan styra användarens webbläsare. Användaren loggar in själv. Bilagan heter K4 – Övriga värdepapper, andra tillgångar (kapitalplaceringar t.ex. råvaror, kryptovalutor) m.m. Kontrollera efter varje rad att vinsten eller förlusten stämmer. Ändra inte kontaktuppgifter eller bankkonto.
+- **Lista:** kan du inte styra webbläsaren, eller vill användaren fylla i själv: ge beteckning, antal, försäljningspris, omkostnadsbelopp, vinst och förlust, och säg vart summan ska. Påminn om förifyllda belopp vid punkt 7.5 och 8.4.
 
-Stanna före Skriv under. Användaren granskar skatteuträkningen och skriver under själv. E-tjänsten visar en kvittens.
+Stanna alltid före Skriv under. Användaren granskar skatteuträkningen och skriver under själv. E-tjänsten visar en kvittens.
 
 ### Steg 8 – Spara underlag
 

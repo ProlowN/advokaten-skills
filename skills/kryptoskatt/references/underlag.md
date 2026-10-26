@@ -9,9 +9,9 @@ Hur många år de ska sparas står i årsfilen. För en vanlig deklaration är d
 Skatteverket räknar upp:
 
 - Kontoutdrag, eller motsvarande, som visar vad som betalats eller förts över i fiatvaluta för de avyttrade kryptovalutorna.
-- Handel direkt från en plånbok: transaktionshistorik med adresserna och transaktionerna.
+- Handel direkt från en plånbok: transaktionshistorik med adresserna och transaktionerna. Användaren sparar historiken med adresserna. I chatten räcker en rensad export, se nedan.
 - Handel via en handelsplats: historik över insättningar, uttag, byten, köp och försäljningar för de avyttrade kryptovalutorna, från varje handelsplats.
-- Något som visar att kontot eller plånboken tillhör användaren, till exempel en skärmbild där kontot syns.
+- Något som visar att kontot eller plånboken tillhör användaren, till exempel en skärmbild där kontot syns. Be inte om en bild som visar en seed phrase eller en nyckel.
 - Användarvillkoren för tjänsterna. De kan avgöra om en insättning är förvaring, pant eller utlåning.
 
 Be också om:
@@ -21,13 +21,24 @@ Be också om:
 - Kurs eller motvärde i svenska kronor på affärsdagen. Saknas en kronkurs: växlarens uppgift och sedan fiatkursen, enligt `belopp-och-skattesatser.md`. Hitta inte på en kurs.
 - Ingående antal och ingående omkostnadsbelopp vid årets början, med det underlag som beloppet bygger på.
 - Villkor för lån, staking och pooler.
-- Skriftliga svar från Skatteverket om något har lämnats åt sidan, till exempel airdrop.
+- Skriftliga svar från Skatteverket om ett pausat mottagande, till exempel airdrop eller hard fork.
 
 Arbetsbladet och hjälpblanketten SKV 2198 sparas. De lämnas inte in. Vid förenklad redovisning ska just det underlag som summeringen bygger på kunna visas.
 
 ## Så ber du om det
 
-Be om en sak i taget. Be inte om lösenord, koder, seed-fraser eller BankID. Användaren kan stryka sådant som inte behövs för beräkningen innan en export lämnas.
+Be om en sak i taget. Be bara om de personuppgifter som behövs och upprepa dem inte.
+
+Be aldrig om, och ta aldrig emot:
+
+- lösenord, koder eller BankID
+- seed phrase eller återställningsfras
+- privat nyckel
+- okrypterad plånboksfil, till exempel en keystore eller en plånboksexport med hemligheter
+
+Dyker något av det upp: stanna. Upprepa inte hemligheten, lägg den inte i arbetsbladet och räkna inte vidare på den filen. Be om en rensad export i stället.
+
+En rensad export räcker för beräkningen: tidpunkt, kryptovaluta, antal, vad som betalades eller togs emot, avgift och valuta. Användaren stryker seed phrase, nycklar och andra hemligheter innan exporten lämnas. Plånboksadresser behöver användaren spara själv, eftersom Skatteverket kan fråga efter dem. I chatten: upprepa en adress bara när två plånböcker annars inte går att skilja åt, och förkorta den då.
 
 Saknas en handelsplats eller en plånbok: säg att genomsnittet då kan bli fel, och räkna inte den kryptovalutan förrän historiken är komplett eller användaren uttryckligen bekräftar att inget annat finns.
 

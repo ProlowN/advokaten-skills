@@ -10,7 +10,7 @@ Skatteverket räknar upp följande exempel. Redovisningen sker på bilaga K4 avs
 
 | Händelse | Försäljningspris | Vad som händer med det som tas emot |
 |---|---|---|
-| Försäljning mot fiatvaluta | Fiatvalutans värde i svenska kronor | Fiatvalutan kan själv behöva redovisas på K4 avsnitt C |
+| Försäljning mot fiatvaluta | Kronvärdet enligt spår (a) eller (b) i `belopp-och-skattesatser.md` | Mottagandet är ett förvärv av fiatvalutan. Rad på K4 avsnitt C först när den fiatvalutan avyttras, om inte 30-dagarsregeln gäller |
 | Byte mot en eller flera andra kryptovalutor | Marknadsvärdet av det som tas emot | Samma belopp blir anskaffningsutgift för den nya kryptovalutan |
 | Betalning för en vara eller en tjänst | Marknadsvärdet av varan eller tjänsten | |
 | Utlåning, när mottagaren får förfoga fritt över kryptovalutan | Marknadsvärdet vid utlåningen | En fordran uppstår, med samma belopp som anskaffningsutgift. Återbetalningen är en avyttring av fordran |
@@ -68,13 +68,17 @@ De sidor som kontrollerades 26 oktober 2026 ger inget generellt svar om airdrop,
 
 Det enda som sägs om hard fork är att bitcoin cash, skapad genom en hard fork efter att Mt. Gox stängde, inte påverkar omkostnadsbeloppet för fordran på Mt. Gox.
 
-Gör därför inte något av detta:
+Pausa bara det oklara mottagandet. Fortsätt räkna dokumenterade köp och försäljningar av samma kryptovaluta. Sätt aldrig omkostnadsbeloppet till noll, och hitta inte på ett värde.
 
-- ta upp airdropen vid punkt 7.2 med ett uppskattat värde
-- sätta omkostnadsbeloppet till noll
-- behandla forken som en avyttring av den ursprungliga kryptovalutan
+Gör därför inte något av detta med själva mottagandet:
 
-Lägg händelsen åt sidan. Säg att användaren behöver ett svar från Skatteverket innan den kryptovalutan kan räknas. Har användaren ett skriftligt svar: följ det och spara det med underlagen.
+- ta upp det vid punkt 7.2 med ett uppskattat värde
+- lägga in antalet i poolen med omkostnadsbelopp noll
+- behandla en fork som en avyttring av den ursprungliga kryptovalutan
+
+Dokumenterade poster ligger kvar i genomsnittet. En försäljning som ryms i det dokumenterade antalet räknas som vanligt. Räcker det dokumenterade antalet inte till, för att en del av det sålda kan komma från det pausade mottagandet: räkna den del som täcks av dokumenterade poster och lämna omkostnadsbeloppet tomt för resten. Säg att den resten väntar på svar från Skatteverket.
+
+Har användaren ett skriftligt svar om mottagandet: följ det, lägg in posten och spara svaret med underlagen.
 
 ## Gåva och arv
 
@@ -84,7 +88,16 @@ Säljs kryptovalutan under marknadsvärdet till någon närstående kan det vara
 
 ## Fiatvaluta
 
-Köp med euro eller dollar är en avyttring av fiatvalutan. Försäljning mot euro eller dollar är ett förvärv av fiatvalutan. Redovisa fiatvalutan på K4 avsnitt C. Trettiodagarsregeln och kursen står i `belopp-och-skattesatser.md`.
+Två olika saker. Detaljerna och kurserna står i `belopp-och-skattesatser.md`.
+
+**Försäljning av kryptovaluta mot dollar eller euro** är ett förvärv av fiatvalutan. Anskaffningsutgiften är det kronbelopp som används som försäljningspris för kryptovalutan. Mottagandet är inte en rad på K4 avsnitt C.
+
+- Spår (a): ersättningen växlas inte till svenska kronor inom 30 dagar. Kronvärde på avyttringsdagen. En rad på K4 avsnitt C kommer när den fiatvalutan senare avyttras, till exempel vid växling, betalning eller uttag.
+- Spår (b): ersättningen växlas till svenska kronor inom 30 dagar från avyttringen, inklusive samma dag. Kursen på växlingsdagen är försäljningspriset för kryptovalutan (44 kap. 16 § inkomstskattelagen). Ingen separat valutaredovisning och ingen rad på K4 avsnitt C för den betalningen (Skatteverket, Utländsk valuta).
+
+**Köp av kryptovaluta med dollar eller euro** som användaren redan har är en avyttring av fiatvalutan. Den redovisas på K4 avsnitt C. Kryptovalutans anskaffningsutgift är fiatvalutans värde i svenska kronor vid köpet (rättslig vägledning, exemplet Björn).
+
+Resevaluta för en utlandsresa på högst sex månader redovisas inte (Skatteverket, Utländsk valuta).
 
 ## FTX, Celsius och Mt. Gox
 
@@ -109,4 +122,5 @@ Har användaren handlat CFD under 2025 hos CMC Markets, IG Markets, Skilling ell
 - Skatteverket: [HFD 2674-18](https://www4.skatteverket.se/rattsligvagledning/373946.html?date=2018-12-17)
 - Skatteverket: [Deklarera aktier och övriga värdepapper](https://www.skatteverket.se/privat/skatter/vardepapper/deklareraaktierochovrigavardepapper.4.5c281c7015abecc2e201bbd1.html)
 - Skatteverket: [Exempel för dig som ska deklarera aktier och övriga värdepapper](https://www.skatteverket.se/privat/skatter/vardepapper/deklareraaktierochovrigavardepapper/deklareravardepapperexempel.4.7afdf8a313d3421e9a9519.html)
-- [Inkomstskattelag (1999:1229)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229/) 44 kap. 3 och 21 §§, 52 kap.
+- Skatteverket: [Utländsk valuta](https://www.skatteverket.se/privat/skatter/vardepapper/omovrigavardepapper/utlandskvaluta.4.233f91f71260075abe8800098753.html)
+- [Inkomstskattelag (1999:1229)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229/) 44 kap. 3, 16 och 21 §§, 52 kap.

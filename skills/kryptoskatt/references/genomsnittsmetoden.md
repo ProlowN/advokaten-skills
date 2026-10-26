@@ -47,14 +47,14 @@ Har hela innehavet av samma slag sålts vid ett enda tillfälle, och det inte ha
 | Hur kryptovalutan fick | Anskaffningsutgift | Källa |
 |---|---|---|
 | Köp mot svenska kronor | Det som betalades, plus köpavgift | Rättslig vägledning, exemplet Francis |
-| Köp mot fiatvaluta | Fiatvalutans värde i svenska kronor | Rättslig vägledning |
+| Köp mot fiatvaluta | Fiatvalutans värde i svenska kronor vid köpet. Betalningen är en avyttring av fiatvalutan, K4 avsnitt C | Rättslig vägledning, exemplet Björn. Spåren i `belopp-och-skattesatser.md` |
 | Byte mot annan kryptovaluta | Marknadsvärdet av det som togs emot, i svenska kronor | Sidan Kryptovalutor |
 | Lön eller annan tjänsteinkomst | Marknadsvärdet som tas upp i tjänst | Sidan Kryptovalutor |
 | Mining | Marknadsvärdet vid tilldelningen, samma belopp som tas upp som hobby eller näring | Sidan Kryptovalutor |
 | Stakingbelöning i ether | Marknadsvärdet när belöningen kan disponeras, samma belopp som tas upp vid punkt 7.2 | Ställningstagande om staking av ether |
 | Ränta i kryptovaluta | Marknadsvärdet vid tilldelningen, samma belopp som tas upp vid punkt 7.2 | Sidan Kryptovalutor, exemplen Sören och Rosa |
 | Arv, gåva eller annat benefikt fång | Den tidigare ägarens anskaffningsutgift | 44 kap. 21 § inkomstskattelagen |
-| Airdrop eller hard fork | Inget generellt svar på de sidor som kontrollerades 26 oktober 2026. Sätt inte omkostnadsbeloppet till noll | Se `handelser.md` |
+| Airdrop eller hard fork | Inget generellt svar på de sidor som kontrollerades 26 oktober 2026. Pausa bara mottagandet. Sätt inte omkostnadsbeloppet till noll. Dokumenterade köp och försäljningar räknas vidare | Se `handelser.md` |
 
 ## Transaktionsavgifter
 

@@ -34,7 +34,7 @@ E-tjänsten: K4 – Övriga värdepapper, andra tillgångar (kapitalplaceringar 
 | Vinst, K4 avsnitt D | Punkt 7.5, den vita rutan. Finns ett förifyllt belopp i det gula fältet (ej marknadsnoterade fondandelar) läggs beloppen ihop | SKV 2104, avsnitt D |
 | Förlust, K4 avsnitt D, hela förlusten | Punkt 8.4, på samma sätt. Inte 70 procent av förlusten | SKV 2104, avsnitt D |
 | Löpande avkastning: ränta, stakingbelöning i ether | Punkt 7.2 | Sidan Kryptovalutor |
-| Fiatvaluta som avyttrats vid köp eller försäljning av krypto | K4 avsnitt C, sedan punkt 7.2 eller 8.1 | SKV 2104, avsnitt C |
+| Fiatvaluta som avyttras: betalning vid köp av krypto, eller senare avyttring av mottagen fiat när 30-dagarsregeln inte gäller | K4 avsnitt C, sedan punkt 7.2 eller 8.1 | SKV 2104, avsnitt C. Spåren i `belopp-och-skattesatser.md` |
 | Stabilitetsavgift i Skatteverkets exempel om decentraliserat lån | Punkt 8.1 i exemplet | Sidan Kryptovalutor |
 
 I e-tjänsten förs summorna från bilagan över automatiskt. Fyll då inte i samma belopp en gång till vid punkt 7.5 eller 8.4.

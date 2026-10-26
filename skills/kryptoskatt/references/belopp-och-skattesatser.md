@@ -32,16 +32,39 @@ K4 ska fyllas i med hela kronor. I Skatteverkets exempel med Anela är omkostnad
 
 Räkna med ören i arbetsbladet. Avrunda till hela kronor när beloppet förs till K4, på samma sätt som i exemplet, och visa avrundningen.
 
-## Valutakurs
+## Valutakurs och fiatvaluta
 
-Det finns ingen officiell kurs mellan svenska kronor och kryptovaluta. Priset kan skilja mellan handelsplatser.
+Det finns ingen officiell kurs mellan svenska kronor och kryptovaluta. Priset kan skilja mellan handelsplatser. Såldes eller byttes kryptovalutan på en växlingssida: använd i första hand den sidans kurs för själva kryptovalutan (rättslig vägledning, Försäljningspris).
 
-- Såldes eller byttes kryptovalutan på en växlingssida: använd i första hand den sidans kurs.
-- Ersättningen är fiatvaluta: försäljningspriset är fiatvalutans värde i svenska kronor på transaktionsdagen.
-- Växlas den fiatvalutan inom 30 dagar: använd kursen på växlingsdagen (trettiodagarsregeln), enligt exemplet i rättslig vägledning.
-- Fiatvalutan är själv en avyttring eller ett förvärv. Den redovisas på K4 avsnitt C, inte i avsnitt D. Hela valutavinsten tas upp och hela valutaförlusten får dras av. Avsnitt C förs till punkt 7.2 eller 8.1.
+Fiatvaluta är en annan tillgång. Att ta emot dollar eller euro vid en försäljning är ett förvärv av den valutan, inte en avyttring. En rad på K4 avsnitt C uppstår när den fiatvalutan senare avyttras, eller när användaren betalar med fiat som hen redan har. Undantaget är spår (b): växling till svenska kronor inom 30 dagar från kryptoförsäljningen redovisas inte för sig (Skatteverket, Utländsk valuta). Hela valutavinsten tas upp och hela valutaförlusten får dras av. Avsnitt C förs till punkt 7.2 eller 8.1 (SKV 2104).
 
-Källa: rättslig vägledning, Särskilt om kryptotillgångar, avsnittet Försäljningspris, och blanketten SKV 2104 avsnitt C.
+Resevaluta för en utlandsresa på högst sex månader redovisas inte (Skatteverket, Utländsk valuta).
+
+### Spår (a) – ersättningen växlas inte till svenska kronor inom 30 dagar
+
+Försäljningspriset för kryptovalutan är fiatbeloppet omräknat till svenska kronor på avyttringsdagen. Har användaren inte växlat: Riksbankens kurs den dagen, eller den senast publicerade kursen om kurs saknas den dagen (Skatteverket, Utländsk valuta).
+
+Samma belopp är anskaffningsutgift för den mottagna fiatvalutan. Själva mottagandet ger ingen rad på K4 avsnitt C.
+
+En rad på K4 avsnitt C kommer först när den fiatvalutan senare avyttras. Försäljningspriset är då värdet i svenska kronor vid avyttringen, och omkostnadsbeloppet är anskaffningsutgiften från kryptoförsäljningen.
+
+Skatteverkets exempel (Björn), när 30-dagarsregeln inte används: han säljer kryptovaluta för 2 100 euro när en euro är värd 10,50 kronor. Försäljningspriset är 22 050 kronor. Anskaffningsutgiften för de 2 100 euron är också 22 050 kronor (rättslig vägledning, Försäljningspris).
+
+### Spår (b) – ersättningen växlas till svenska kronor inom 30 dagar
+
+Växlas ersättningen till svenska kronor inom trettio dagar från avyttringen, inklusive samma dag, används kursen på växlingsdagen som försäljningspris för kryptovalutan (44 kap. 16 § inkomstskattelagen). Skatteverket kallar det 30-dagarsregeln.
+
+Räkna inte en separat valutavinst eller valutaförlust för den betalningen, och lägg ingen rad på K4 avsnitt C för den. Kursresultatet ingår i resultatet för kryptovalutan. Skatteverket: du behöver inte räkna på köpeskillingsfordran eller växlingen. Använd kursen på växlingsdagen (sidan Utländsk valuta). Samma sak i exemplet med Björn: hade euron växlats inom 30 dagar skulle växlingskursen den dagen ha använts i stället för 10,50 kronor.
+
+Växlas bara en del av ersättningen inom 30 dagar: växlingsdagens kurs för den delen, och ingen egen valutaredovisning för den delen. Resten värderas på avyttringsdagen enligt spår (a) och kan ge en rad på K4 avsnitt C när den senare avyttras (44 kap. 16 § gäller den valuta som växlas till svenska kronor).
+
+### Köp av kryptovaluta med fiatvaluta
+
+Att betala med dollar eller euro som användaren redan har är en avyttring av den fiatvalutan. Den redovisas på K4 avsnitt C. Anskaffningsutgiften för kryptovalutan är fiatvalutans värde i svenska kronor vid köpet.
+
+I exemplet med Björn köper han kryptovaluta för 2 000 euro när en euro är värd 10 kronor. Anskaffningsutgiften är 20 000 kronor, och han har avyttrat 2 000 euro (rättslig vägledning).
+
+30-dagarsregeln gäller ersättning vid en avyttring som växlas till svenska kronor. Den gör inte om ett köp med fiat till spår (b).
 
 ## Källor
 
@@ -50,4 +73,5 @@ Källa: rättslig vägledning, Särskilt om kryptotillgångar, avsnittet Försä
 - Skatteverket: [Särskilt om kryptotillgångar i inkomstslaget kapital](https://www4.skatteverket.se/rattsligvagledning/edition/2025.1/409288.html)
 - Skatteverket: [Beskattning av kapitalinkomster](https://www4.skatteverket.se/rattsligvagledning/edition/2025.1/2714.html)
 - Skatteverket: [HFD 2674-18, Avyttring av bitcoin](https://www4.skatteverket.se/rattsligvagledning/373946.html?date=2018-12-17)
-- [Inkomstskattelag (1999:1229)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229/) 44 kap., 48 kap. 15 §, 52 kap. 3 och 5 §§, 65 kap. 7 §, 67 kap. 10 §
+- Skatteverket: [Utländsk valuta](https://www.skatteverket.se/privat/skatter/vardepapper/omovrigavardepapper/utlandskvaluta.4.233f91f71260075abe8800098753.html)
+- [Inkomstskattelag (1999:1229)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229/) 44 kap. 16 §, 48 kap. 15 §, 52 kap. 3 och 5 §§, 65 kap. 7 §, 67 kap. 10 §

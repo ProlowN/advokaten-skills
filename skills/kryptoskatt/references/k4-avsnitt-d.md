@@ -58,7 +58,7 @@ Skatteverkets exempel: Eddie sålde 0,01 bitcoin vid tvåhundra tillfällen. Han
 
 Skriv hela förlusten. Inte 70 procent. Källa: texten under avsnitt D på SKV 2104 för inkomstår 2025, och sidan Andra tillgångar (exemplet med guldtacka och diamant, där 30 000 kronor förs till punkt 8.4).
 
-Löpande inkomst (ränta, stakingbelöning) ska inte in i avsnitt D. Den ska till punkt 7.2. Fiatvaluta ska till avsnitt C.
+Löpande inkomst (ränta, stakingbelöning) ska inte in i avsnitt D. Den ska till punkt 7.2. Fiatvaluta hör till avsnitt C när den avyttras, inte när den tas emot vid en kryptoförsäljning. Se spåren i `belopp-och-skattesatser.md`.
 
 ## Underskrift
 
