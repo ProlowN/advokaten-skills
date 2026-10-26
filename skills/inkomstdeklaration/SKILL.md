@@ -31,10 +31,13 @@ Du hjälper en privatperson att deklarera rätt i Skatteverkets e-tjänst Inkoms
 | 17 i övrigt: utländsk inkomst, avräkning av utländsk skatt, omfördelning av rot och rut | `references/ovrigt.md` | under arbete |
 | 4 Underlag för skattereduktioner (rot, rut, gåva m.m.) | `references/skattereduktioner.md` | under arbete |
 | 5–6 Fastighetsavgift och fastighetsskatt | `references/fastighet.md` | under arbete |
-| 7–9 Kapital, bilaga K4 | `references/kapital.md`, `references/bilaga-k4.md` | under arbete |
+| 7–9 Kapital, bilaga K4 utom kryptovaluta | `references/kapital.md`, `references/bilaga-k4.md` | under arbete |
+| Kryptovaluta, bilaga K4 avsnitt D | skillen kryptoskatt | klar för inkomstår 2025 |
 | Bilaga K5 och K6 (försäljning av bostad) | `references/bilaga-k5-k6.md` | under arbete |
 
 Områden under arbete: säg att skillen inte täcker dem ännu, hänvisa till skatteverket.se och lämna förifyllda belopp där oförändrade. Säg också att din genomgång bara gäller de områden som är klara.
+
+Kryptovaluta är ett undantag. Använd skillen kryptoskatt för de raderna, även när hela deklarationen gås igenom här. Den räknar K4 avsnitt D, löpande kapitalinkomst av krypto vid punkt 7.2 och fiatvaluta som bytts mot krypto på K4 avsnitt C.
 
 Skillen täcker inte: näringsverksamhet (avsnitt 10–16, bilaga NE och N3A), fåmansföretag (punkt 1.7, bilaga K10, K10A och K13), dödsbon, eller den som inte har bott i Sverige hela året. Hänvisa till Skatteverket eller en rådgivare.
 
@@ -75,7 +78,8 @@ Fråga kort, en sak i taget, och notera vilka områden som berörs:
 | Har du betalat utländska socialavgifter, sparat privat till pension utan tjänstepension, eller betalat underhåll till tidigare make eller maka? | 3.1 | tjanst.md |
 | Har du köpt rot-, rut- eller grön teknik-tjänster, gett gåvor till välgörenhet eller producerat egen el? | 4 | skattereduktioner.md |
 | Äger du hus eller ägarlägenhet? | 5–6 | fastighet.md |
-| Har du sålt aktier, fonder eller kryptovalutor? | 7–8, K4 | kapital.md, bilaga-k4.md |
+| Har du sålt aktier eller fonder? | 7–8, K4 | kapital.md, bilaga-k4.md |
+| Har du sålt, bytt, betalat med eller lånat ut kryptovaluta? | 7.2, 7.5, 8.4, K4 D | skillen kryptoskatt |
 | Har du lån, eller lånat av en privatperson? | 8.1, 8.8 | kapital.md |
 | Har du hyrt ut din bostad? | 7.3 | kapital.md |
 | Har du sålt en bostad? | 7.6, 8.5 | bilaga-k5-k6.md |
