@@ -28,6 +28,18 @@ Enligt Skatteverkets sidor i oktober 2026. Kontrollera igen innan årsfilen skri
 
 Källor: Skatteverkets sidor om resor till och från arbetet, traktamente, avdragslexikon (A, D, P, R, T), kostnadsersättning och sälja tjänster.
 
+## kryptoskatt – varje år
+
+Belopp, datum och blankettens år står i `skills/kryptoskatt/references/inkomstar-ÅÅÅÅ.md`. Reglerna i de andra filerna ändras när Skatteverket ändrar sin vägledning, inte bara vid årsskiftet.
+
+1. Skapa `skills/kryptoskatt/references/inkomstar-ÅÅÅÅ.md` från förra årets fil. Hämta datum från sidan Datum för deklarationen. Behåll förra årets fil.
+2. Ladda ner bilaga K4 (SKV 2104) för det nya inkomståret. Jämför avsnitt D med `references/k4-avsnitt-d.md`: rubrik, kolumner, antal rader, hela kronor, och att summa vinst går till punkt 7.5 och hela summa förlust till punkt 8.4. Skriv blankettens märkning, till exempel SKV 2104 28 sv web 01, i årsfilen.
+3. Läs sidan Kryptovalutor. Kontrollera listan över händelser, genomsnittsmetoden, att schablonmetoden fortfarande inte får användas, förenklad redovisning och exemplen. Kontrollera rättslig vägledning, Särskilt om kryptotillgångar, särskilt avsnittet om transaktionsavgifter.
+4. Kontrollera Belopp och procent för året: 30 procent på överskott av kapital, 70 procent av förlusten, skattereduktion vid underskott och avdraget för ränteutgifter utan säkerhet.
+5. Läs frågorna om FTX, Celsius och Mt. Gox på kryptosidan. Uppdatera årsfilen om det finns nya datum, kurser eller belopp.
+6. Jämför sista dagen på kryptosidan med sidan Datum för deklarationen. I oktober 2026 stod 2 maj på kryptosidan och 4 maj på datumssidan. Använd datumssidan.
+7. Kontrolluppgift KU94: den första rapporteringen avser kalenderåret 2026 och ska lämnas senast 1 april 2027. Inför deklarationen 2027: ta reda på om uppgifterna syns för privatpersonen och hur de förhåller sig till K4. Kontrolluppgiften är sammanlagda transaktioner, inte en färdig kapitalvinst. Användaren ska fortfarande kunna visa omkostnadsbeloppet.
+
 ## bouppteckning – minst två gånger om året
 
 Det som ändras oftast står i `skills/bouppteckning/references/aktuellt-2026.md`.
